@@ -96,7 +96,7 @@ if __name__ == '__main__':
             sleep(3)
             cal1()
             sleep(2)
-            countdownTimer(00, 03)
+            countdownTimer(00, 10)
             print("\n")
         except requests.exceptions.ConnectionError:
                sys.exit("\033[1;97m[\033[1;91m×\033[1;97m\033[1;91mKoneksi Error!!")
