@@ -97,8 +97,8 @@ function fetch_value($str,$find_start,$find_end) {
 ?>
 <?php
 date_default_timezone_set('Asia/Jakarta');
-echo color("red","[]               Voucher Gofood               []\n");
-echo color("nevy","[]              Repack  : MbLeOT              []\n");
+echo color("red","[]                  Voucher Gofood                []\n");
+echo color("nevy","[]             RamzTutorial Channel              []\n");
 echo color("blue","[]       Time : ".date('[d-m-Y] [H:i:s]')."       []\n");
 echo color("red","[]         Kode Nomor 628XXXXXXXXXXX          []\n");
 function change(){
