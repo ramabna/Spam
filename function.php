@@ -97,10 +97,10 @@ function fetch_value($str,$find_start,$find_end) {
 ?>
 <?php
 date_default_timezone_set('Asia/Jakarta');
-echo color("red","[]                  Voucher Gofood                []\n");
-echo color("nevy","[]             RamzTutorial Channel              []\n");
-echo color("blue","[]       Time : ".date('[d-m-Y] [H:i:s]')."       []\n");
-echo color("red","[]         Kode Nomor 628XXXXXXXXXXX          []\n");
+echo color("red","[]                  Voucher Gofood               []\n");
+echo color("nevy","[]             RamzTutorial Channel             []\n");
+echo color("blue","[]       Time : ".date('[d-m-Y] [H:i:s]')."     []\n");
+echo color("red","[]         Kode Nomor 628XXXXXXXXXXX             []\n");
 function change(){
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
